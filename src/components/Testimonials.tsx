@@ -145,7 +145,7 @@ const Testimonials = () => {
           description="View examples of successful interview sessions with our guidance."
           imageSet={
             [
-              './public/images/in_1.jpg',
+              './images/in_2.jpg',
               './public/images/in_2.jpg',
               './public/images/in_3.jpg',
               './public/images/in_4.jpg',
