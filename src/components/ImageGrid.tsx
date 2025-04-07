@@ -1,7 +1,7 @@
 import React, { ReactNode } from 'react';
 import Marquee from 'react-fast-marquee';
 
-const ImageGrid = ({ images }) => {
+const ImageGrid = ({ images }: { images: string[] }) => {
   return (
     <div className="w-full overflow-hidden">
       <Marquee speed={50} gradient={false} pauseOnHover={true}>
