@@ -3,8 +3,7 @@ import { Star } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import ImageGrid from './ImageGrid';
-import logo from  '../../public/images/in_2.jpg';
-import logo1 from '../img/in_1.jpg'
+
 const testimonials = [
   {
     name: "Priya S.",
@@ -127,8 +126,7 @@ const Testimonials = () => {
           description="See how our platform has helped students excel in their online assessments."
           imageSet={
             [
-              logo,
-              logo1,
+        
               
               './images/oa_1.jpg',
               './images/oa_2.jpg',
