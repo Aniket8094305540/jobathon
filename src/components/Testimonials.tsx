@@ -134,7 +134,8 @@ const Testimonials = () => {
               './images/oa_4.jpg',
               './images/oa_5.jpg',
               './images/oa_6.jpg',
-              './images/oa_7.jpg'
+              './images/oa_7.jpg',
+              './images/oa_8.jpg'
             ]
           }
         />
@@ -151,7 +152,7 @@ const Testimonials = () => {
               './images/in_5.jpg',
               './images/in_6.jpg',
               './images/in_7.jpg',
-              './images/in_8.jpg'
+              
             ]
           }
         />
