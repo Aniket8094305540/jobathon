@@ -130,12 +130,13 @@ const Testimonials = () => {
               logo,
               logo1,
               
-              './public/images/oa_2.jpg',
-              './public/images/oa_3.jpg',
-              './public/images/oa_4.jpg',
-              './public/images/oa_5.jpg',
-              './public/images/oa_6.jpg',
-              './public/images/oa_7.jpg'
+              './images/oa_1.jpg',
+              './images/oa_2.jpg',
+              './images/oa_3.jpg',
+              './images/oa_4.jpg',
+              './images/oa_5.jpg',
+              './images/oa_6.jpg',
+              './images/oa_7.jpg'
             ]
           }
         />
@@ -145,14 +146,14 @@ const Testimonials = () => {
           description="View examples of successful interview sessions with our guidance."
           imageSet={
             [
+              './images/in_1.jpg',
               './images/in_2.jpg',
-              './public/images/in_2.jpg',
-              './public/images/in_3.jpg',
-              './public/images/in_4.jpg',
-              './public/images/in_5.jpg',
-              './public/images/in_6.jpg',
-              './public/images/in_7.jpg',
-              './public/images/in_8.jpg'
+              './images/in_3.jpg',
+              './images/in_4.jpg',
+              './images/in_5.jpg',
+              './images/in_6.jpg',
+              './images/in_7.jpg',
+              './images/in_8.jpg'
             ]
           }
         />
