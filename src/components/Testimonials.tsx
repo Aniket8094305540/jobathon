@@ -3,7 +3,7 @@ import { Star } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import ImageGrid from './ImageGrid';
-import logo from  '../../public/images/in_1.jpg';
+import logo from  '../../public/images/in_2.jpg';
 import logo1 from '../img/in_1.jpg'
 const testimonials = [
   {
